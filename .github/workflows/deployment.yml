@@ -1,5 +1,5 @@
 name: Testing and deploument code
-  on: push
+on: push
 
 jobs:
   lint:
